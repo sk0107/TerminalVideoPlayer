@@ -37,7 +37,7 @@ You also need **FFmpeg** installed on your system. Ensure that `ffmpeg` and `ffp
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sk0107/TerminalVideoPlayer.git
+   git clone https://github.com/sohamkonar/TerminalVideoPlayer.git
    cd TerminalVideoPlayer
    ```
 
