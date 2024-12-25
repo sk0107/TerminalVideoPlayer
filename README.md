@@ -2,10 +2,6 @@
 
 The **Terminal Video Player** is a rudimentary Python-based tool that converts video files into ASCII art and plays them directly in the terminal, synchronized with their audio. It supports both monochrome and colored ASCII output, making it a fun way to watch videos in a terminal environment. This is a **work in progress** so there are still a lot of bugs to fix and optimizations and features to be implemented!
 
-## Inspiration
-
-My two brain cells are fried beyond repair but this TikTok (https://www.tiktok.com/t/ZP8N7bwwT/) created a brief spark that led to the creation of this abomination. The goal was to create a video player on par with the one found here (https://github.com/maxcurzi/tplay) and clearly I did a great job of doing that.
-
 ## Features
 - Converts video frames to ASCII art.
 - Plays audio alongside the ASCII video.
@@ -108,10 +104,16 @@ python video_to_ascii.py myvideo.mp4 --color --true-fps
 - Playback performance may vary based on terminal and system capabilities.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve this project.
 
 ## Contact
 Please contact me at sohamkonar28@gmail.com with any questions or concerns.
+
+## Inspiration
+My two brain cells are fried beyond repair but this TikTok (https://www.tiktok.com/t/ZP8N7bwwT/) created a brief spark that led to the creation of this abomination. The goal was to create a video player on par with the one found here (https://github.com/maxcurzi/tplay) and clearly I did a great job of doing that.
+
+## Final Thoughts
+I started this project at 11 PM on December 24th, 2024 and I am writing this at 3 AM on December 25th, 2024 after throwing this code at ChatGPT for the past 3.5 hours. Given that I am trying to write a high-performance Python-based (oxymoron intended) terminal video player, I think I did an alright job.
