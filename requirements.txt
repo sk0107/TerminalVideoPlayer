@@ -1,0 +1,4 @@
+opencv-python==4.10.0.84
+pydub==0.25.1
+pyaudio==0.2.14
+ffmpeg-python==0.2.0
