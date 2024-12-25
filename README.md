@@ -2,6 +2,10 @@
 
 The **Terminal Video Player** is a rudimentary Python-based tool that converts video files into ASCII art and plays them directly in the terminal, synchronized with their audio. It supports both monochrome and colored ASCII output, making it a fun way to watch videos in a terminal environment. This is a **work in progress** so there are still a lot of bugs to fix and optimizations and features to be implemented!
 
+## Inspiration
+
+My two brain cells are fried beyond repair but this TikTok (https://www.tiktok.com/t/ZP8N7bwwT/) created a brief spark that led to the creation of this abomination. The goal was to create a video player on par with the one found here (https://github.com/maxcurzi/tplay) and clearly I did a great job of doing that.
+
 ## Features
 - Converts video frames to ASCII art.
 - Plays audio alongside the ASCII video.
